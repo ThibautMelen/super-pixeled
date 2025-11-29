@@ -154,11 +154,11 @@ MIT © [Thibaut Melen](https://github.com/ThibautMelen)
 <br/>
 
 <a href="https://github.com/ThibautMelen">
-  <img src="https://avatars.githubusercontent.com/u/20891897?s=200&v=4" alt="ThibautMelen" width="32"/>
+  <img src="https://avatars.githubusercontent.com/u/20891897?s=200&v=4" alt="ThibautMelen" width="48"/>
 </a>
 &nbsp;❤️&nbsp;
 <a href="https://github.com/SuperNovae-studio">
-  <img src="https://avatars.githubusercontent.com/u/33066282?s=200&v=4" alt="SuperNovae Studio" width="32"/>
+  <img src="https://avatars.githubusercontent.com/u/33066282?s=200&v=4" alt="SuperNovae Studio" width="48"/>
 </a>
 &nbsp;🏴‍☠️
 
