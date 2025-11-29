@@ -146,4 +146,20 @@ MIT © [Thibaut Melen](https://github.com/ThibautMelen)
 
 ---
 
-> Built with ❤️ and Claude Code
+<div align="center">
+
+<sub>Built with Claude Code | Open-source LED panel project | 2025</sub><br/>
+<sub>Powered by Raspberry Pi 5 + Waveshare HUB75</sub>
+
+<br/>
+
+<a href="https://github.com/ThibautMelen">
+  <img src="https://avatars.githubusercontent.com/u/20891897?s=200&v=4" alt="ThibautMelen" width="32"/>
+</a>
+&nbsp;❤️&nbsp;
+<a href="https://github.com/SuperNovae-studio">
+  <img src="https://avatars.githubusercontent.com/u/33066282?s=200&v=4" alt="SuperNovae Studio" width="32"/>
+</a>
+&nbsp;🏴‍☠️
+
+</div>
