@@ -1,0 +1,9 @@
+[package]
+name = "sp-renderer"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description = "Framebuffer and rendering for Super Pixeled"
+
+[dependencies]
+sp-core = { workspace = true }

@@ -1,0 +1,15 @@
+[package]
+name = "sp-hub75"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description = "HUB75 LED driver abstraction for Super Pixeled"
+
+[dependencies]
+sp-core = { workspace = true }
+sp-renderer = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+
+[dev-dependencies]
+mockall = { workspace = true }

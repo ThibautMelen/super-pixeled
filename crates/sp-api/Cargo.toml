@@ -1,0 +1,21 @@
+[package]
+name = "sp-api"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description = "HTTP API for Super Pixeled"
+
+[dependencies]
+sp-core = { workspace = true }
+sp-effects = { workspace = true }
+sp-renderer = { workspace = true }
+sp-hub75 = { workspace = true }
+
+axum = { workspace = true }
+tokio = { workspace = true }
+tower = { workspace = true }
+tower-http = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+validator = { workspace = true }
+tracing = { workspace = true }

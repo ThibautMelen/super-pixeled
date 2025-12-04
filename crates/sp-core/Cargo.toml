@@ -1,0 +1,16 @@
+[package]
+name = "sp-core"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description = "Core types and configuration for Super Pixeled"
+
+[dependencies]
+serde = { workspace = true }
+thiserror = { workspace = true }
+config = { workspace = true }
+toml = { workspace = true }
+validator = { workspace = true }
+
+[dev-dependencies]
+tokio-test = { workspace = true }
